@@ -38,4 +38,13 @@ setup(
         ],
     },
     include_package_data=True,
+    keywords='async asyncio asynciterable asynciterator event eventemitter',
+    classifiers=[
+        'Development Status :: 2 - Pre-Alpha',
+        'Intended Audience :: Developers',
+        'License :: OSI Approved :: Apache Software License',
+        'Programming Language :: Python :: 3.5',
+        'Programming Language :: Python :: 3 :: Only',
+        'Topic :: Software Development'
+    ]
 )
